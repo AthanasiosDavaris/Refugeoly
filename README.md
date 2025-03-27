@@ -20,4 +20,4 @@ Refugeoly is a Java-based board game that simulates the perilous journey of refu
 ## Authors
 
 - **Athanasios Davaris**
-- **Theodoros Triados**
+- **George Karagounis**
